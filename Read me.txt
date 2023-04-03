@@ -1,0 +1,10 @@
+streamlit
+pickle
+tqdm
+streamlit_authenticator
+streamlit_option_menu
+difflib
+numpy
+pandas
+
+use streamlit run app.py in this directory to launch the app.
